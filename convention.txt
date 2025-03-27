@@ -1,0 +1,2 @@
+#due to difference environment, some convention will be listed here
+ls (mac)->dir(win)
